@@ -25,12 +25,6 @@ A fast, responsive typing speed test game built with **React**, **TypeScript**, 
 
 ---
 
-## 📸 Screenshots
-
-> Add your project screenshots here (optional)
-
----
-
 ## 📦 Installation
 
 ```bash
